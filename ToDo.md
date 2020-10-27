@@ -1,10 +1,9 @@
 # List of Things to Try
 
-- Day/Dark Theme
+- Day/Dark Theme ✅
   - HTML, CSS
   - if..else
   - time fns
-  - $SERVER superglobal
 
 - Text Based Calculator (url params command) 'add 5 and 10', '10 + 5'
   - Switch
