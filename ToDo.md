@@ -16,6 +16,7 @@
   - Functions
   - Arrays
   - Class & Objects
+  - random horoscope
 
 - Printing Patterns
   - Loops
