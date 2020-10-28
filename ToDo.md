@@ -5,7 +5,7 @@
   - if..else
   - time fns
 
-- Text Based Calculator (url params command) 'add 5 and 10', '10 + 5'
+- Text Based Calculator (url params command) 'add 5 10' operation operand1 operand2
   - Switch
   - Operators
   - Maths fns
