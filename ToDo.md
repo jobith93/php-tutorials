@@ -12,7 +12,6 @@
   - String fns
   
 - Horoscope Generator (url params birthdate) sunsign, one-line horoscope
-  - Switch
   - Functions
   - Arrays
   - Class & Objects
